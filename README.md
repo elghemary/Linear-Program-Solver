@@ -1,19 +1,12 @@
 
-![Interface Screenshot](1.png)
 # LP Solver
-## Screenshots
-
-1. **Application Interface**
-   ![Interface](1.png)
-2. **Built-in Example Problems**
-   ![Built-in Problems](2.png)
-3. **Solution and Graph**
-   ![Solution with Graph](3.png)
 
 **Projet Recherche Opérationnelle**
 
 ## Project Overview
 This project is an interactive Python application for solving **Linear Programming (LP)** problems with two variables using the **Simplex / HiGHS** algorithm from SciPy. It is designed for educational and practical use, providing a graphical interface for easy input and visualization of LP problems.
+
+![Application Interface](images/1.png)
 
 The tool is ideal for:
 - Students learning about linear programming and optimization
@@ -60,8 +53,12 @@ Suppose you want to solve:
 4. Click **Solve** to see the optimal solution
 5. Click **Plot (2D)** to visualize
 
+![Solution and Graph](images/3.png)
+
 ## Presets
 The app includes several built-in example problems (presets) for quick demonstration. Select a preset from the dropdown and click **Load** to auto-fill the fields.
+
+![Built-in Example Problems](images/2.png)
 
 ## Troubleshooting & Tips
 - If you see an error, check that all coefficients are numbers and at least one constraint is entered.
