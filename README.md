@@ -1,5 +1,15 @@
 
+![Interface Screenshot](1.png)
 # LP Solver
+## Screenshots
+
+1. **Application Interface**
+   ![Interface](1.png)
+2. **Built-in Example Problems**
+   ![Built-in Problems](2.png)
+3. **Solution and Graph**
+   ![Solution with Graph](3.png)
+
 **Projet Recherche Opérationnelle**
 
 ## Project Overview
