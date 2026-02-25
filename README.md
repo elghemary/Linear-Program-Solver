@@ -52,12 +52,12 @@ Suppose you want to solve:
 4. Click **Solve** to see the optimal solution
 5. Click **Plot (2D)** to visualize
 
-![Solution and Graph](https://github.com/elghemary/Linear-Program-Solver/blob/main/Images/2.png?raw=true)
+![Solution and Graph](https://github.com/elghemary/Linear-Program-Solver/blob/main/Images/3.png?raw=true)
 
 ## Presets
 The app includes several built-in example problems (presets) for quick demonstration. Select a preset from the dropdown and click **Load** to auto-fill the fields.
 
-![Built-in Example Problems](https://github.com/elghemary/Linear-Program-Solver/blob/main/Images/3.png?raw=true)
+![Built-in Example Problems](https://github.com/elghemary/Linear-Program-Solver/blob/main/Images/2.png?raw=true)
 
 ## Troubleshooting & Tips
 - If you see an error, check that all coefficients are numbers and at least one constraint is entered.
